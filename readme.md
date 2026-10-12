@@ -1,37 +1,21 @@
-# Foobar
+# Nome
 
-Foobar is a Python library for dealing with word pluralization.
+Sou o Dinis Ribeiro
 
-## Installation
+## Secundário 
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Tive na escola Camilo Castelo Branco e tirei um de Técnico de Gestão de programação de sistemas informáticos 
 
-```bash
-pip install foobar
-```
+## Linguagem de programação que aprendi
 
-## Usage
+Ao longo do curso que tirei no secundário as linguagens que tirei foram:
 
-```python
-import foobar
+- c#
+- HTML
+- PHP
+- CSS
+- C++
 
-# returns 'words'
-foobar.pluralize('word')
+## Experiencia de trabalho
 
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+Estagiei na InfoPlay onde fiz vários trabalho como paginas web e trabalhei também um pouco com hardware.
